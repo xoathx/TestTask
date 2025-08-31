@@ -23,7 +23,7 @@ mvn allure:serve
 
 ## Стек технологий
 
---**Java 21**
---**JUnit 5**
---**RestAssured**
---**Allure**
+- **Java 21**
+- **JUnit 5**
+- **RestAssured**
+- **Allure**
